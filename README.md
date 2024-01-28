@@ -1,6 +1,6 @@
 # Solar PV Training Program:
 
-. For engineering projects work drawingsDesign, 
+. For engineering projects work drawings Design, 
   Shop drawing, As built.
 
 . Read and analyze electrical catalogs and solar   
